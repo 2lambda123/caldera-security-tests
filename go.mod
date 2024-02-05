@@ -4,8 +4,8 @@ go 1.20
 
 require (
 	github.com/bitfield/script v0.22.0
-	github.com/chromedp/cdproto v0.0.0-20240127002248-bd7a66284627
-	github.com/chromedp/chromedp v0.9.4
+	github.com/chromedp/cdproto v0.0.0-20240202021202-6d0b6a386732
+	github.com/chromedp/chromedp v0.9.5
 	github.com/fatih/color v1.15.0
 	github.com/l50/goutils v1.3.1
 	github.com/magefile/mage v1.15.0
@@ -69,7 +69,7 @@ require (
 	golang.org/x/crypto v0.17.0 // indirect
 	golang.org/x/mod v0.12.0 // indirect
 	golang.org/x/net v0.19.0 // indirect
-	golang.org/x/sys v0.15.0 // indirect
+	golang.org/x/sys v0.16.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/tools v0.13.0 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
